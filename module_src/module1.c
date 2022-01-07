@@ -6,6 +6,7 @@ extern void CounterPrint();
 void _prolog()
 {
 	debug_printf("Entering module1's prolog\n");
+	debug_printf("cosf(0) = %f", cosf(0));
 	CounterPrint();
 }
 

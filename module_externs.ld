@@ -1,1 +1,1 @@
-EXTERN(sinf)
+EXTERN(cosf)
